@@ -1,2 +1,2 @@
-# torquevideogame
-EF-152 Project Group 6
+# torque-videogame
+EF-152 Project Summer 25
